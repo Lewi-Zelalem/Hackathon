@@ -1080,6 +1080,8 @@ body.nav-active {
 .about-banner {
   position: relative;
   margin-block-end: 120px;
+  padding-inline-start: 0px;
+  margin-top: 10%;
 }
 
 .about-banner > .w-100 {
